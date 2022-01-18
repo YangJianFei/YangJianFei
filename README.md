@@ -1,7 +1,6 @@
-### Hi there 👋
 <p align="center"> 
-  <strong>浏览量|Visitor count</strong><br>
-<img src="https://profile-counter.glitch.me/YangJianFei/count.svg" alt="黑发海贼">
+  <strong style="color:#E91E63;">出海数|Sailing count</strong><br>
+  <img src="https://profile-counter.glitch.me/YangJianFei/count.svg" alt="黑发海贼">
 </p>
 <img src="./冒险-海贼-骷髅-海盗.gif" alt="颜筋柳骨，字如其人乃是修行" title="颜筋柳骨，字如其人乃是修行" width="100%">
 <!--
